@@ -1,6 +1,6 @@
 [build]
-  command = "npm run build"
-  publish = "build"
+command = "npm run build"
+publish = "build"
 
 [build.environment]
-  GO_VERSION = "1.19"
+NODE_VERSION = "18"  # or your desired Node version

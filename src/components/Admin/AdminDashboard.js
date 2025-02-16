@@ -3,19 +3,19 @@ import { Dialog, Menu, Transition } from "@headlessui/react";
 import { Link, Outlet } from "react-router-dom";
 import {
   Bars3CenterLeftIcon,
-  BellIcon,
-  ClockIcon,
+  // BellIcon,
+  // ClockIcon,
   CogIcon,
-  CreditCardIcon,
-  DocumentChartBarIcon,
-  HomeIcon,
+  // CreditCardIcon,
+  // DocumentChartBarIcon,
+  // HomeIcon,
   QuestionMarkCircleIcon,
   ScaleIcon,
-  ShieldCheckIcon,
-  UserGroupIcon,
+  // ShieldCheckIcon,
+  // UserGroupIcon,
   XMarkIcon,
 } from "@heroicons/react/24/outline";
-import logo from "../Navbar/logo3.png";
+// import logo from "../Navbar/logo3.png";
 const ordersLinks = [
   {
     name: "Dashboard",

@@ -4,3 +4,4 @@ publish = "build"
 
 [build.environment]
 NODE_VERSION = "18"  # or your desired Node version
+GO_VERSION = "1.19"
